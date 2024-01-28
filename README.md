@@ -1,5 +1,7 @@
 # GrapeVantage-BE-Analytics
 
+## Introduction
+<img src="Webscrape GIF.gif" width="40" height="40" />
 
 ## Getting Started
 
