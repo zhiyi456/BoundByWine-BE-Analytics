@@ -13,6 +13,7 @@ It was started in 2019 with the idea of helping customers find their perfect win
 
 ## Webscraping Pipeline
 A pivotal aspect of our project involves establishing a web scraping pipeline for our client. This pipeline serves to significantly reduce the need for manual effort spent on visiting competitor websites to gather information on their product offerings and pricing. By automating this process, our solution enhances efficiency and streamlines the client's workflow.
+
 <img src="Webscrape GIF.gif" width="400" height="400" />
 
 ## Getting Started
