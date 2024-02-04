@@ -5,14 +5,15 @@
 BoundByWine (BBW) is a winery that sells wines and holds wine-tasting events. 
 It was started in 2019 with the idea of helping customers find their perfect wine and now aims to provide people with various ways to explore and enjoy wines from all over the world, especially through their monthly wine tastings.
 
-## Requirements
+## Requirements By Clients
 
 1. Keep track of new products released by other wine retailers
 2. Understand customers’ behavioural trends and check if BoundByWine’s products are aligned with customer demand
 3. Determine whether BoundByWine’s product listings are competitively priced and how its product offerings compare to other wine retailers
 
-
-<img src="Webscrape GIF.gif" width="100" height="100" />
+## Webscraping Pipeline
+A pivotal aspect of our project involves establishing a web scraping pipeline for our client. This pipeline serves to significantly reduce the need for manual effort spent on visiting competitor websites to gather information on their product offerings and pricing. By automating this process, our solution enhances efficiency and streamlines the client's workflow.
+<img src="Webscrape GIF.gif" width="400" height="400" />
 
 ## Getting Started
 
